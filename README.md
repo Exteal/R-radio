@@ -1,5 +1,11 @@
 Un projet Kotlin Multiplatform pour émuler le comportement d'une radio vintage sur différents supports (Desktop, Web & Android(Todo)).
 
+Interface actuelle :
+
+
+
+![UI example](radio.png)
+
 
 Fonctionnalitées / interface incluant  :
 
