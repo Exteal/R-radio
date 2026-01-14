@@ -7,6 +7,8 @@ Interface actuelle :
 ![UI example](radio.png)
 
 
+La version desktop necéssite d'installer [VLC](https://www.videolan.org/vlc/).
+
 Fonctionnalitées / interface incluant  :
 
 - Deux boutons à tourner pour gérer la fréquence et le volume.
